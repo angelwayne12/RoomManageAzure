@@ -6,7 +6,7 @@ namespace RoomManageData
     {
         string connectionString
             //= "Data Source =ELIJAH\\MSSQLSERVER01; Initial Catalog = Room ; Integrated Security = True;";
-            = "Server = tcp:207.46.154.243,1433; Database = Room; User Id = sa; Password = integ2!";
+            = "Server = tcp:52.184.82.37,1433; Database = Room; User Id = sa; Password = integ2!";
 
         SqlConnection sqlConnection;
 
